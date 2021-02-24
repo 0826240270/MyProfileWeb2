@@ -230,7 +230,7 @@ header .top-nav ul li a:not(.active):hover{
 
 .bio .wrap-avt{
   position: absolute;
-  padding: 5px;
+  padding: 3px;
   background: linear-gradient(90deg, rgba(0,252,254,1) 10%, rgba(0,254,80,1) 50%, rgba(255,214,0,1) 90%);
   border-radius: 50%;
   top:-70px;
